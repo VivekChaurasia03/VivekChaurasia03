@@ -22,7 +22,7 @@ As a passionate problem-solving enthusiast, I am currently pursuing a Profession
 #### 🕹️ Familiar With:
 
 <div style='display: flex;gap: 10px;'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="drawing" width="30px">
+  <img src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" alt="drawing" width="30px">
   <img src="https://www.theprovatogroup.com/wp-content/uploads/2020/01/devops.png" alt="drawing" width="30px"/> 
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="drawing" width="30px"/>
 </div>
@@ -30,7 +30,7 @@ As a passionate problem-solving enthusiast, I am currently pursuing a Profession
 
 ## 🏢 Professional/Internship Experience:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/NEC_SWS_Lockup.svg/1200px-NEC_SWS_Lockup.svg.png" width="150px">
+<img src="https://logowik.com/content/uploads/images/359_nec.jpg" width="150px">
 
 ### Software Developer - Associate
 
@@ -52,7 +52,7 @@ As a passionate problem-solving enthusiast, I am currently pursuing a Profession
 
 ## 🎓 Education:
 
-<img src="https://1000logos.net/wp-content/uploads/2022/07/University-of-Maryland-Logo.png" width="200px">
+<img src="https://umd-brand.transforms.svdcdn.com/production/uploads/images/logos-primary.jpg?w=1801&h=601&auto=compress%2Cformat&fit=crop&dm=1613775207&s=71ce45031f9164cb409f11a2e28d8b8c" width="200px">
 
 Profession Master's Of Engineering in Software Engineering @ UMD
 
