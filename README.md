@@ -54,7 +54,7 @@ As a passionate problem-solving enthusiast, I am currently pursuing a Profession
 
 <img src="https://umd-brand.transforms.svdcdn.com/production/uploads/images/logos-primary.jpg?w=1801&h=601&auto=compress%2Cformat&fit=crop&dm=1613775207&s=71ce45031f9164cb409f11a2e28d8b8c" width="200px">
 
-Profession Master's Of Engineering in Software Engineering @ UMD
+Incoming graduate student at the University of Maryland, pursuing a Professional Master's in Software Engineering
 
 <hr>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/DJSCE_Logo.png" width="120px">
