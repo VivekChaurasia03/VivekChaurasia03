@@ -1,4 +1,4 @@
-# Adios, I'm Vivek Chaurasia 👋👨‍💻
+# Hola, I'm Vivek Chaurasia 👋👨‍💻
 
 As a passionate problem-solving enthusiast, I am currently pursuing a Professional Master's of Engineering in Software Engineering at the University of Maryland (UMD). My goal is to create impactful solutions that improve lives, exploring software products from user interface to infrastructure. I thrive on tackling complex challenges, leveraging my skills to develop innovative and efficient software solutions that make a difference.
 
